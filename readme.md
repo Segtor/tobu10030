@@ -1,290 +1,290 @@
-BVE5ê—pŽÔ—¼ƒAƒhƒIƒ“u“Œ•“S“¹10030/10050ŒnvŽæˆµà–¾‘ - 17/10/01 03:00 -
+BVE5å°‚ç”¨è»Šä¸¡ã‚¢ãƒ‰ã‚ªãƒ³ã€Œæ±æ­¦é‰„é“10030/10050ç³»ã€å–æ‰±èª¬æ˜Žæ›¸ - 17/10/01 03:00 -
 
 ------------------------------------------------------------------------------------------------------
-‚±‚Ì“x‚ÍBVE—pŽÔ—¼ƒAƒhƒIƒ“u“Œ•“S“¹10030/10050Œnv‚ðƒ_ƒEƒ“ƒ[ƒh‚¢‚½‚¾‚«A‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B
-‚±‚ÌƒeƒLƒXƒgƒtƒ@ƒCƒ‹‚É‚ÍAŽg—pã‚Ì’ˆÓ‚ª‹LÚ‚³‚ê‚Ä‚¢‚Ü‚·‚Ì‚ÅA•K‚¸‚²ˆê“Ç‚­‚¾‚³‚¢B
+ã“ã®åº¦ã¯BVEç”¨è»Šä¸¡ã‚¢ãƒ‰ã‚ªãƒ³ã€Œæ±æ­¦é‰„é“10030/10050ç³»ã€ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã„ãŸã ãã€ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã™ã€‚  
+ã“ã®ãƒ†ã‚­ã‚¹ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã«ã¯ã€ä½¿ç”¨ä¸Šã®æ³¨æ„ãŒè¨˜è¼‰ã•ã‚Œã¦ã„ã¾ã™ã®ã§ã€å¿…ãšã”ä¸€èª­ãã ã•ã„ã€‚  
 
-¡1,’ˆÓŽ–€
-‚±‚ÌƒAƒhƒIƒ“‚É‚Íˆê•”ŽÀÛ‚ÌŽÔ—¼‚Ì‹““®‚Æ‚ÍˆÙ‚È‚é•”•ª‚ª‚ ‚è‚Ü‚·B‚ ‚ç‚©‚¶‚ß‚²—¹³‚­‚¾‚³‚¢B
+â– 1,æ³¨æ„äº‹é …  
+ã“ã®ã‚¢ãƒ‰ã‚ªãƒ³ã«ã¯ä¸€éƒ¨å®Ÿéš›ã®è»Šä¸¡ã®æŒ™å‹•ã¨ã¯ç•°ãªã‚‹éƒ¨åˆ†ãŒã‚ã‚Šã¾ã™ã€‚ã‚ã‚‰ã‹ã˜ã‚ã”äº†æ‰¿ãã ã•ã„ã€‚  
 
-‚Ü‚½A‚±‚ÌƒAƒhƒIƒ“‚ðŽg—p‚µ‚½‚ ‚ç‚ä‚é‘¹ŠQ‚É‚¨‚¢‚ÄAŽ„iSegtorj‚ÍˆêØ‚ÌÓ”C‚ð•‰‚¢‚©‚Ë‚Ü‚·B
-‚²Žg—p‚ÍŽ©ŒÈÓ”C‚Å‚¨Šè‚¢‚¢‚½‚µ‚Ü‚·B
+ã¾ãŸã€ã“ã®ã‚¢ãƒ‰ã‚ªãƒ³ã‚’ä½¿ç”¨ã—ãŸã‚ã‚‰ã‚†ã‚‹æå®³ã«ãŠã„ã¦ã€ç§ï¼ˆSegtorï¼‰ã¯ä¸€åˆ‡ã®è²¬ä»»ã‚’è² ã„ã‹ã­ã¾ã™ã€‚  
+ã”ä½¿ç”¨ã¯è‡ªå·±è²¬ä»»ã§ãŠé¡˜ã„ã„ãŸã—ã¾ã™ã€‚  
 
-Ÿ‘¬“xŒv‚ª60km/h‚ðŽw‚µ‚½‚Ü‚Ü“®‚©‚È‚¢ê‡Ÿ
-ƒVƒiƒŠƒIƒtƒHƒ‹ƒ_‚ÌƒpƒX‚É2ƒoƒCƒgi‘SŠpj•¶Žš‚ª“ü‚Á‚Ä‚¢‚é‚Ì‚ªŒ´ˆö‚Å‚·B
-—á‚¦‚ÎƒVƒiƒŠƒIƒtƒHƒ‹ƒ_‚ÌêŠ‚ªƒfƒtƒHƒ‹ƒg‚Åƒ†[ƒU[–¼‚ª“ú–{Œê‚¾‚Æˆø‚Á‚©‚©‚è‚Ü‚·B
-‚±‚ê‚ÍAReal Analog Gaugeƒvƒ‰ƒOƒCƒ“‚ÌŽd—l‚É‚æ‚é‚à‚Ì‚Å‚·B
-ƒVƒiƒŠƒIƒtƒHƒ‹ƒ_‚ðCƒhƒ‰ƒCƒu’¼‰º“™‚Ì2ƒoƒCƒg•¶Žš‚ªŠÜ‚Ü‚ê‚È‚¢êŠ‚ÖˆÚ“®‚µ‚Ä‚­‚¾‚³‚¢B
+â—†é€Ÿåº¦è¨ˆãŒ60km/hã‚’æŒ‡ã—ãŸã¾ã¾å‹•ã‹ãªã„å ´åˆâ—†  
+ã‚·ãƒŠãƒªã‚ªãƒ•ã‚©ãƒ«ãƒ€ã®ãƒ‘ã‚¹ã«2ãƒã‚¤ãƒˆï¼ˆå…¨è§’ï¼‰æ–‡å­—ãŒå…¥ã£ã¦ã„ã‚‹ã®ãŒåŽŸå› ã§ã™ã€‚  
+ä¾‹ãˆã°ã‚·ãƒŠãƒªã‚ªãƒ•ã‚©ãƒ«ãƒ€ã®å ´æ‰€ãŒãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã§ãƒ¦ãƒ¼ã‚¶ãƒ¼åãŒæ—¥æœ¬èªžã ã¨å¼•ã£ã‹ã‹ã‚Šã¾ã™ã€‚  
+ã“ã‚Œã¯ã€Real Analog Gaugeãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã®ä»•æ§˜ã«ã‚ˆã‚‹ã‚‚ã®ã§ã™ã€‚  
+ã‚·ãƒŠãƒªã‚ªãƒ•ã‚©ãƒ«ãƒ€ã‚’Cãƒ‰ãƒ©ã‚¤ãƒ–ç›´ä¸‹ç­‰ã®2ãƒã‚¤ãƒˆæ–‡å­—ãŒå«ã¾ã‚Œãªã„å ´æ‰€ã¸ç§»å‹•ã—ã¦ãã ã•ã„ã€‚  
 
-Ÿƒtƒ@ƒCƒ‹\‘¢‚É‚Â‚¢‚ÄŸ
-‘O‚Ìƒo[ƒWƒ‡ƒ“‚©‚çƒtƒ@ƒCƒ‹\‘¢‚ª•Ï‚í‚è‚Ü‚µ‚½‚Ì‚ÅAã‘‚«‚·‚é‚Æ—]•ª‚Èƒtƒ@ƒCƒ‹‚ªŽc‚è‚Ü‚·B
-•s‹ï‡‚Ío‚È‚¢‚ÆŽv‚¢‚Ü‚·‚ªA”O‚Ì‚½‚ß‘O‚Ìƒo[ƒWƒ‡ƒ“‚ðíœ‚µ‚ÄV‚½‚É“±“ü‚µ‚È‚¨‚µ‚Ä‰º‚³‚¢B
-‚È‚¨AˆÈ‘O‚É“–ƒf[ƒ^‚ðŽÔ—¼Žw’è‚µ‚Ä‚¢‚½‚¾‚¢‚½˜Hüƒf[ƒ^‚ÌƒVƒiƒŠƒIƒtƒ@ƒCƒ‹‚Í‘‚«Š·‚¦‚é•K—v‚ª‚ ‚è‚Ü‚·B
-˜Hüƒf[ƒ^‚ÌìŽÒ—l•û‚É’u‚©‚ê‚Ü‚µ‚Ä‚Í‘å•ÏŒä–Ê“|—l‚Å‚ÍŒäÀ‚¢‚Ü‚·‚ª‹Lq‚ÌC³‚ð‚¨Šè‚¢’v‚µ‚Ü‚·B
+â—†ãƒ•ã‚¡ã‚¤ãƒ«æ§‹é€ ã«ã¤ã„ã¦â—†  
+å‰ã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã‹ã‚‰ãƒ•ã‚¡ã‚¤ãƒ«æ§‹é€ ãŒå¤‰ã‚ã‚Šã¾ã—ãŸã®ã§ã€ä¸Šæ›¸ãã™ã‚‹ã¨ä½™åˆ†ãªãƒ•ã‚¡ã‚¤ãƒ«ãŒæ®‹ã‚Šã¾ã™ã€‚  
+ä¸å…·åˆã¯å‡ºãªã„ã¨æ€ã„ã¾ã™ãŒã€å¿µã®ãŸã‚å‰ã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã‚’å‰Šé™¤ã—ã¦æ–°ãŸã«å°Žå…¥ã—ãªãŠã—ã¦ä¸‹ã•ã„ã€‚  
+ãªãŠã€ä»¥å‰ã«å½“ãƒ‡ãƒ¼ã‚¿ã‚’è»Šä¸¡æŒ‡å®šã—ã¦ã„ãŸã ã„ãŸè·¯ç·šãƒ‡ãƒ¼ã‚¿ã®ã‚·ãƒŠãƒªã‚ªãƒ•ã‚¡ã‚¤ãƒ«ã¯æ›¸ãæ›ãˆã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚  
+è·¯ç·šãƒ‡ãƒ¼ã‚¿ã®ä½œè€…æ§˜æ–¹ã«ç½®ã‹ã‚Œã¾ã—ã¦ã¯å¤§å¤‰å¾¡é¢å€’æ§˜ã§ã¯å¾¡åº§ã„ã¾ã™ãŒè¨˜è¿°ã®ä¿®æ­£ã‚’ãŠé¡˜ã„è‡´ã—ã¾ã™ã€‚  
 
-Ÿ“®ìŠÂ‹«‚É‚Â‚¢‚ÄŸ
-‰^“]‘ä‚Ì‰æ‘œ‚ª•\Ž¦‚³‚ê‚È‚¢‚Æ‚¢‚¤•ñ‚ð‚¢‚½‚¾‚¢‚Ä‚¨‚è‚Ü‚·‚ªA
-“–•û‚ÌŠÂ‹«‚Å³í‚É“®ì‚µ‚Ä‚¢‚é‚½‚ßŒ´ˆö‚Ì“Á’è‚ª‚Å‚«‚Ü‚¹‚ñB
-³í‚É“®ì‚ðŠm”F‚µ‚½ŠÂ‹«‚Ì\¬‚ð‹LÚ‚µ‚Ü‚·‚Ì‚ÅA‚²ŽQl‚­‚¾‚³‚¢B
+â—†å‹•ä½œç’°å¢ƒã«ã¤ã„ã¦â—†  
+é‹è»¢å°ã®ç”»åƒãŒè¡¨ç¤ºã•ã‚Œãªã„ã¨ã„ã†å ±å‘Šã‚’ã„ãŸã ã„ã¦ãŠã‚Šã¾ã™ãŒã€  
+å½“æ–¹ã®ç’°å¢ƒã§æ­£å¸¸ã«å‹•ä½œã—ã¦ã„ã‚‹ãŸã‚åŽŸå› ã®ç‰¹å®šãŒã§ãã¾ã›ã‚“ã€‚  
+æ­£å¸¸ã«å‹•ä½œã‚’ç¢ºèªã—ãŸç’°å¢ƒã®æ§‹æˆã‚’è¨˜è¼‰ã—ã¾ã™ã®ã§ã€ã”å‚è€ƒãã ã•ã„ã€‚  
 
-Œ»Ý‚Ì»ìŠÂ‹«
-OS	:Windows8.1 Pro (64bit)
-MB	:GIGABYTE H67A-D3H-B3
-CPU	:Intel Core i7-2600
-RAM	:12GB
-GPU	:AMD Radeon RX480
-VRAM	:8GB
+ç¾åœ¨ã®è£½ä½œç’°å¢ƒ  
+OS	:Windows8.1 Pro (64bit)  
+MB	:GIGABYTE H67A-D3H-B3  
+CPU	:Intel Core i7-2600  
+RAM	:12GB  
+GPU	:AMD Radeon RX480  
+VRAM	:8GB  
 
-¡2,ƒA[ƒJƒCƒu‚Ì“à—e
-ŽÔ—¼Žw’è‚ÌÛ‚ÍA"segtor"ƒtƒHƒ‹ƒ_‚ð"Bvets"ƒtƒHƒ‹ƒ_‚É’u‚«AƒVƒiƒŠƒIƒtƒ@ƒCƒ‹‚ðˆÈ‰º‚Ì—l‚É‹Lq‚µ‚Ä‚­‚¾‚³‚¢B
+â– 2,ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ã®å†…å®¹  
+è»Šä¸¡æŒ‡å®šã®éš›ã¯ã€"segtor"ãƒ•ã‚©ãƒ«ãƒ€ã‚’"Bvets"ãƒ•ã‚©ãƒ«ãƒ€ã«ç½®ãã€ã‚·ãƒŠãƒªã‚ªãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä»¥ä¸‹ã®æ§˜ã«è¨˜è¿°ã—ã¦ãã ã•ã„ã€‚  
 
-ƒ‹¤’Ê„
-VehicleTitle = “Œ•10030Œn
+ï¼œå…±é€šï¼ž  
+VehicleTitle = æ±æ­¦10030ç³»  
 
-Ÿ‰w–¼•\Ž¦‚É‚Â‚¢‚ÄŸ
-–{ü‚Ìu‹Æ•½‹´v‰w‚Íu‚Æ‚¤‚«‚å‚¤ƒXƒJƒCƒcƒŠ[v‰w‚ÉAu¼Œ´’c’nv‰w‚ÍuàÕ‹¦‘åŠw‘Ov‰w‚É‰üÌ‚³‚ê‚Ü‚µ‚½B
-u‹Æ•½‹´v‰w‚¾‚¯‚ðu‚Æ‚¤‚«‚å‚¤ƒXƒJƒCƒcƒŠ[v‰w‚É•Ï‚¦‚½‚¢ê‡i2012”N3ŒŽ17“ú`2017”N3ŒŽ31“új‚Í"_s"‚ðA
-‚Ç‚¿‚ç‚àV‰w–¼‚ð•\Ž¦‚µ‚½‚¢ê‡i2017”N4ŒŽ1“ú`j‚Í"_d"‚ðAŠg’£Žq‚Ì’¼‘O‚É’Ç‰Á‚µ‚Ä‚­‚¾‚³‚¢B
-¦–{üˆÈŠO‚ÌŽÔ—¼‚Í‘Î‰ž‚µ‚Ä‚¢‚Ü‚¹‚ñB@—áFVehicle = segtor\tobu10030\vehicle_hon_6t_d.txt
+â—†é§…åè¡¨ç¤ºã«ã¤ã„ã¦â—†  
+æœ¬ç·šã®ã€Œæ¥­å¹³æ©‹ã€é§…ã¯ã€Œã¨ã†ãã‚‡ã†ã‚¹ã‚«ã‚¤ãƒ„ãƒªãƒ¼ã€é§…ã«ã€ã€Œæ¾åŽŸå›£åœ°ã€é§…ã¯ã€Œç¨å”å¤§å­¦å‰ã€é§…ã«æ”¹ç§°ã•ã‚Œã¾ã—ãŸã€‚  
+ã€Œæ¥­å¹³æ©‹ã€é§…ã ã‘ã‚’ã€Œã¨ã†ãã‚‡ã†ã‚¹ã‚«ã‚¤ãƒ„ãƒªãƒ¼ã€é§…ã«å¤‰ãˆãŸã„å ´åˆï¼ˆ2012å¹´3æœˆ17æ—¥ï½ž2017å¹´3æœˆ31æ—¥ï¼‰ã¯"_s"ã‚’ã€  
+ã©ã¡ã‚‰ã‚‚æ–°é§…åã‚’è¡¨ç¤ºã—ãŸã„å ´åˆï¼ˆ2017å¹´4æœˆ1æ—¥ï½žï¼‰ã¯"_d"ã‚’ã€æ‹¡å¼µå­ã®ç›´å‰ã«è¿½åŠ ã—ã¦ãã ã•ã„ã€‚  
+â€»æœ¬ç·šä»¥å¤–ã®è»Šä¸¡ã¯å¯¾å¿œã—ã¦ã„ã¾ã›ã‚“ã€‚ã€€ä¾‹ï¼šVehicle = segtor\tobu10030\vehicle_hon_6t_d.txt  
+ 
+ï¼œæœ¬ç·šï¼ž  
+ãƒ»2ä¸¡ç·¨æˆ ãƒ¢ãƒ11230/50  
+Vehicle = segtor\tobu10030\vehicle_hon_2m.txt  
+ãƒ»2ä¸¡ç·¨æˆ ã‚¯ãƒ12230/50  
+Vehicle = segtor\tobu10030\vehicle_hon_2t.txt  
 
-ƒ–{ü„
-E2—¼•Ò¬ ƒ‚ƒn11230/50
-Vehicle = segtor\tobu10030\vehicle_hon_2m.txt
-E2—¼•Ò¬ ƒNƒn12230/50
-Vehicle = segtor\tobu10030\vehicle_hon_2t.txt
+ãƒ»4ä¸¡ç·¨æˆ ã‚¯ãƒ11430/50ãƒ»ã‚¯ãƒ14430/50  
+Vehicle = segtor\tobu10030\vehicle_hon_4.txt  
+ãƒ»4ä¸¡ç·¨æˆ ãƒ¢ãƒ11230/50  
+Vehicle = segtor\tobu10030\vehicle_hon_4m.txt  
+ãƒ»4ä¸¡ç·¨æˆ ã‚¯ãƒ12230/50  
+Vehicle = segtor\tobu10030\vehicle_hon_4t.txt  
 
-E4—¼•Ò¬ ƒNƒn11430/50EƒNƒn14430/50
-Vehicle = segtor\tobu10030\vehicle_hon_4.txt
-E4—¼•Ò¬ ƒ‚ƒn11230/50
-Vehicle = segtor\tobu10030\vehicle_hon_4m.txt
-E4—¼•Ò¬ ƒNƒn12230/50
-Vehicle = segtor\tobu10030\vehicle_hon_4t.txt
+ãƒ»6ä¸¡ç·¨æˆ ã‚¯ãƒ11630/50ãƒ»ã‚¯ãƒ11430/50  
+Vehicle = segtor\tobu10030\vehicle_hon_6.txt  
+ãƒ»6ä¸¡ç·¨æˆ ãƒ¢ãƒ11230/50  
+Vehicle = segtor\tobu10030\vehicle_hon_6m.txt  
+ãƒ»6ä¸¡ç·¨æˆ ã‚¯ãƒ16630/50ãƒ»ã‚¯ãƒ12230/50  
+Vehicle = segtor\tobu10030\vehicle_hon_6t.txt  
 
-E6—¼•Ò¬ ƒNƒn11630/50EƒNƒn11430/50
-Vehicle = segtor\tobu10030\vehicle_hon_6.txt
-E6—¼•Ò¬ ƒ‚ƒn11230/50
-Vehicle = segtor\tobu10030\vehicle_hon_6m.txt
-E6—¼•Ò¬ ƒNƒn16630/50EƒNƒn12230/50
-Vehicle = segtor\tobu10030\vehicle_hon_6t.txt
+ãƒ»8ä¸¡ç·¨æˆ ã‚¯ãƒ11630/50ãƒ»ã‚¯ãƒ11430/50ãƒ»ã‚¯ãƒ14430/50  
+Vehicle = segtor\tobu10030\vehicle_hon_8.txt  
+ãƒ»8ä¸¡ç·¨æˆ ãƒ¢ãƒ11230/50  
+Vehicle = segtor\tobu10030\vehicle_hon_8m.txt  
+ãƒ»8ä¸¡ç·¨æˆ ã‚¯ãƒ12230/50ãƒ»ã‚¯ãƒ16630/50  
+Vehicle = segtor\tobu10030\vehicle_hon_8t.txt  
 
-E8—¼•Ò¬ ƒNƒn11630/50EƒNƒn11430/50EƒNƒn14430/50
-Vehicle = segtor\tobu10030\vehicle_hon_8.txt
-E8—¼•Ò¬ ƒ‚ƒn11230/50
-Vehicle = segtor\tobu10030\vehicle_hon_8m.txt
-E8—¼•Ò¬ ƒNƒn12230/50EƒNƒn16630/50
-Vehicle = segtor\tobu10030\vehicle_hon_8t.txt
+ãƒ»10ä¸¡ç·¨æˆ ã‚¯ãƒ11630/50ãƒ»ã‚¯ãƒ11430/50ãƒ»ã‚¯ãƒ14430/50  
+Vehicle = segtor\tobu10030\vehicle_hon_10.txt  
+ãƒ»10ä¸¡ç·¨æˆ ãƒ¢ãƒ11230/50  
+Vehicle = segtor\tobu10030\vehicle_hon_10m.txt  
+ãƒ»10ä¸¡ç·¨æˆ ã‚¯ãƒ12230/50ãƒ»ã‚¯ãƒ16630/50  
+Vehicle = segtor\tobu10030\vehicle_hon_10t.txt  
 
-E10—¼•Ò¬ ƒNƒn11630/50EƒNƒn11430/50EƒNƒn14430/50
-Vehicle = segtor\tobu10030\vehicle_hon_10.txt
-E10—¼•Ò¬ ƒ‚ƒn11230/50
-Vehicle = segtor\tobu10030\vehicle_hon_10m.txt
-E10—¼•Ò¬ ƒNƒn12230/50EƒNƒn16630/50
-Vehicle = segtor\tobu10030\vehicle_hon_10t.txt
+ï¼œé‡Žç”°ç·šï¼ž  
+ãƒ»6ä¸¡ç·¨æˆ ã‚¯ãƒ11650  
+Vehicle = segtor\tobu10030\vehicle_noda_6.txt  
+ãƒ»6ä¸¡ç·¨æˆ ã‚¯ãƒ16650  
+Vehicle = segtor\tobu10030\vehicle_noda_6t.txt  
 
-ƒ–ì“cü„
-E6—¼•Ò¬ ƒNƒn11650
-Vehicle = segtor\tobu10030\vehicle_noda_6.txt
-E6—¼•Ò¬ ƒNƒn16650
-Vehicle = segtor\tobu10030\vehicle_noda_6t.txt
+ï¼œæ±ä¸Šç·šï¼ž  
+ãƒ»4ä¸¡ç·¨æˆ ã‚¯ãƒ11430/50ãƒ»ã‚¯ãƒ14430/50  
+Vehicle = segtor\tobu10030\vehicle_tojo_4.txt  
 
-ƒ“Œãü„
-E4—¼•Ò¬ ƒNƒn11430/50EƒNƒn14430/50
-Vehicle = segtor\tobu10030\vehicle_tojo_4.txt
+ãƒ»6ä¸¡ç·¨æˆ ã‚¯ãƒ11630/50  
+Vehicle = segtor\tobu10030\vehicle_tojo_6.txt  
+ãƒ»6ä¸¡ç·¨æˆ ã‚¯ãƒ16630/50  
+Vehicle = segtor\tobu10030\vehicle_tojo_6t.txt  
 
-E6—¼•Ò¬ ƒNƒn11630/50
-Vehicle = segtor\tobu10030\vehicle_tojo_6.txt
-E6—¼•Ò¬ ƒNƒn16630/50
-Vehicle = segtor\tobu10030\vehicle_tojo_6t.txt
+ãƒ»8ä¸¡ç·¨æˆ ã‚¯ãƒ11430/50ãƒ»ã‚¯ãƒ14430/50  
+Vehicle = segtor\tobu10030\vehicle_tojo_8.txt  
 
-E8—¼•Ò¬ ƒNƒn11430/50EƒNƒn14430/50
-Vehicle = segtor\tobu10030\vehicle_tojo_8.txt
+ãƒ»10ä¸¡ç·¨æˆ ã‚¯ãƒ11630/50ãƒ»ã‚¯ãƒ14430/50ãƒ»ã‚¯ãƒ11030ãƒ»ã‚¯ãƒ10030  
+Vehicle = segtor\tobu10030\vehicle_tojo_10.txt  
 
-E10—¼•Ò¬ ƒNƒn11630/50EƒNƒn14430/50EƒNƒn11030EƒNƒn10030
-Vehicle = segtor\tobu10030\vehicle_tojo_10.txt
+â– 3,è·¯ç·šãƒ‡ãƒ¼ã‚¿ä½œè€…æ§˜å‘ã‘æƒ…å ±  
+ATSãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã§ã‚µãƒãƒ¼ãƒˆã—ã¦ã„ã‚‹é§…ã®ã»ã‹ã€ç‹¬è‡ªã«å®šç¾©ã—ãŸä»¥ä¸‹ã®é§…åã‚’è¡¨ç¤ºã§ãã¾ã™ã€‚  
 
-¡3,˜Hüƒf[ƒ^ìŽÒ—lŒü‚¯î•ñ
-ATSƒvƒ‰ƒOƒCƒ“‚ÅƒTƒ|[ƒg‚µ‚Ä‚¢‚é‰w‚Ì‚Ù‚©A“ÆŽ©‚É’è‹`‚µ‚½ˆÈ‰º‚Ì‰w–¼‚ð•\Ž¦‚Å‚«‚Ü‚·B
+â—†ç¾åœ¨é§…è¡¨ç¤ºâ—†  
+äº‹æ¥­è€…10ï¼ˆæ±æ­¦ï¼‰ï¼šæ±ä¸Šç·š  
+75ã€€æ±æ­¦ç«¹æ²¢  
+76ã€€ç”·è¡¾  
+77ã€€é‰¢å½¢  
+78ã€€çŽ‰æ·€  
+79ã€€å¯„å±…  
 
-ŸŒ»Ý‰w•\Ž¦Ÿ
-Ž–‹ÆŽÒ10i“Œ•jF“Œãü
-75@“Œ•’|‘ò
-76@’jåÎ
-77@”«Œ`
-78@‹Ê—„
-79@Šñ‹
+äº‹æ¥­è€…20ï¼ˆè¥¿æ­¦ï¼‰ï¼šè¶Šç”Ÿç·šãƒ»é‡Žç”°ç·šãƒ»ä¼Šå‹¢å´Žç·š  
+02ã€€ä¸€æœ¬æ¾   
+03ã€€è¥¿å¤§å®¶   
+04ã€€å·è§’   
+05ã€€æ­¦å·žé•·ç€¬   
+06ã€€æ±æ¯›å‘‚   
+07ã€€æ­¦å·žå”æ²¢   
+08ã€€è¶Šç”Ÿ  
+09ã€€å¤§å®®   
+10ã€€åŒ—å¤§å®®   
+11ã€€å¤§å®®å…¬åœ’   
+12ã€€å¤§å’Œç”°   
+13ã€€ä¸ƒé‡Œ   
+14ã€€å²©æ§»   
+15ã€€æ±å²©æ§»   
+16ã€€è±Šæ˜¥   
+17ã€€å…«æœ¨å´Ž   
+18ã€€æ˜¥æ—¥éƒ¨   
+19ã€€è—¤ã®ç‰›å³¶   
+20ã€€å—æ¡œäº•   
+21ã€€å·é–“   
+22ã€€ä¸ƒå…‰å°   
+23ã€€æ¸…æ°´å…¬åœ’   
+24ã€€æ„›å®•   
+25ã€€é‡Žç”°å¸‚   
+26ã€€æ¢…éƒ·   
+27ã€€é‹æ²³   
+28ã€€æ±Ÿæˆ¸å·å°   
+29ã€€åˆçŸ³   
+30ã€€æµå±±ãŠãŠãŸã‹ã®æ£®   
+31ã€€è±Šå››å­£   
+32ã€€æŸ   
+33ã€€æ–°æŸ   
+34ã€€å¢—å°¾   
+35ã€€é€†äº•   
+36ã€€é«˜æŸ³   
+37ã€€å…­å®Ÿ   
+38ã€€æ–°éŽŒãƒ¶è°·   
+39ã€€éŽŒãƒ¶è°·   
+40ã€€é¦¬è¾¼æ²¢   
+41ã€€å¡šç”°   
+42ã€€æ–°èˆ¹æ©‹   
+43ã€€èˆ¹æ©‹  
+44ã€€é·²å®®   
+45ã€€èŠ±å´Ž   
+46ã€€åŠ é ˆ  
+47ã€€å—ç¾½ç”Ÿ   
+48ã€€ç¾½ç”Ÿ  
+49ã€€å·ä¿£   
+50ã€€èŒ‚æž—å¯ºå‰   
+51ã€€é¤¨æž—  
+52ã€€å¤šã€…è‰¯   
+53ã€€çœŒ   
+54ã€€ç¦å±…   
+55ã€€æ±æ­¦å’Œæ³‰   
+56ã€€è¶³åˆ©å¸‚   
+57ã€€é‡Žå·žå±±è¾º   
+58ã€€éŸ®å·   
+59ã€€å¤ªç”°  
+60ã€€ç´°è°·   
+61ã€€æœ¨å´Ž   
+62ã€€ä¸–è‰¯ç”°   
+63ã€€å¢ƒç”º   
+64ã€€å‰›å¿—   
+65ã€€æ–°ä¼Šå‹¢å´Ž   
+66ã€€ä¼Šå‹¢å´Ž   
 
-Ž–‹ÆŽÒ20i¼•jF‰z¶üE–ì“cüEˆÉ¨èü
-02@ˆê–{¼ 
-03@¼‘å‰Æ 
-04@ìŠp 
-05@•B’·£ 
-06@“Œ–Ñ˜C 
-07@•B“‚‘ò 
-08@‰z¶
-09@‘å‹{ 
-10@–k‘å‹{ 
-11@‘å‹{Œö‰€ 
-12@‘å˜a“c 
-13@Žµ—¢ 
-14@Šâ’Î 
-15@“ŒŠâ’Î 
-16@–Lt 
-17@”ª–Øè 
-18@t“ú•” 
-19@“¡‚Ì‹“‡ 
-20@“ì÷ˆä 
-21@ìŠÔ 
-22@ŽµŒõ‘ä 
-23@´…Œö‰€ 
-24@ˆ¤“† 
-25@–ì“cŽs 
-26@”~‹½ 
-27@‰^‰Í 
-28@]ŒËì‘ä 
-29@‰Î 
-30@—¬ŽR‚¨‚¨‚½‚©‚ÌX 
-31@–LŽl‹G 
-32@” 
-33@V” 
-34@‘”ö 
-35@‹tˆä 
-36@‚–ö 
-37@˜ZŽÀ 
-38@VŠ™ƒ–’J 
-39@Š™ƒ–’J 
-40@”nž‘ò 
-41@’Ë“c 
-42@V‘D‹´ 
-43@‘D‹´
-44@˜h‹{ 
-45@‰Ôè 
-46@‰Á{
-47@“ì‰H¶ 
-48@‰H¶
-49@ì–“ 
-50@–Î—ÑŽ›‘O 
-51@ŠÙ—Ñ
-52@‘½X—Ç 
-53@Œ§ 
-54@•Ÿ‹ 
-55@“Œ•˜aò 
-56@‘«—˜Žs 
-57@–ìBŽR•Ó 
-58@”Bì 
-59@‘¾“c
-60@×’J 
-61@–Øè 
-62@¢—Ç“c 
-63@‹«’¬ 
-64@„Žu 
-65@VˆÉ¨è 
-66@ˆÉ¨è 
+äº‹æ¥­è€…50ï¼ˆæ±æ€¥ï¼‰ï¼šæ—¥å…‰ç·šãƒ»å®‡éƒ½å®®ç·šãƒ»é¬¼æ€’å·ç·š  
+02ã€€æ —æ©‹   
+03ã€€æ–°å¤æ²³   
+04ã€€æŸ³ç”Ÿ   
+05ã€€æ¿å€‰æ±æ´‹å¤§å‰   
+06ã€€è—¤å²¡   
+07ã€€é™å’Œ   
+08ã€€æ–°å¤§å¹³ä¸‹   
+09ã€€æ ƒæœ¨   
+10ã€€æ–°æ ƒæœ¨   
+11ã€€åˆæˆ¦å ´   
+12ã€€å®¶ä¸­   
+13ã€€æ±æ­¦é‡‘å´Ž   
+14ã€€æ¥¡æœ¨   
+15ã€€æ¨…å±±   
+16ã€€æ–°é¹¿æ²¼   
+17ã€€åŒ—é¹¿æ²¼   
+18ã€€æ¿è·   
+19ã€€ä¸‹å°ä»£   
+20ã€€æ˜Žç¥ž   
+21ã€€ä¸‹ä»Šå¸‚   
+22ã€€ä¸Šä»Šå¸‚   
+23ã€€æ±æ­¦æ—¥å…‰  
+24ã€€é‡Žå·žå¹³å·   
+25ã€€é‡Žå·žå¤§å¡š   
+26ã€€å£¬ç”Ÿ   
+27ã€€å›½è°·   
+28ã€€ãŠã‚‚ã¡ã‚ƒã®ã¾ã¡   
+29ã€€å®‰å¡š   
+30ã€€è¥¿å·ç”°   
+31ã€€æ±Ÿæ›½å³¶   
+32ã€€å—å®‡éƒ½å®®   
+33ã€€æ±æ­¦å®‡éƒ½å®®  
+34ã€€å¤§è°·å‘   
+35ã€€å¤§æ¡‘   
+36ã€€æ–°é«˜å¾³   
+37ã€€å°ä½è¶Š   
+38ã€€æ±æ­¦ãƒ¯ãƒ¼ãƒ«ãƒ‰ã‚¹ã‚¯ã‚¦ã‚§ã‚¢  
+39ã€€é¬¼æ€’å·æ¸©æ³‰   
+40ã€€é¬¼æ€’å·å…¬åœ’   
+41ã€€æ–°è—¤åŽŸ  
 
-Ž–‹ÆŽÒ50i“Œ‹}jF“úŒõüE‰F“s‹{üE‹S“{ìü
-02@ŒI‹´ 
-03@VŒÃ‰Í 
-04@–ö¶ 
-05@”Â‘q“Œ—m‘å‘O 
-06@“¡‰ª 
-07@Ã˜a 
-08@V‘å•½‰º 
-09@“È–Ø 
-10@V“È–Ø 
-11@‡íê 
-12@‰Æ’† 
-13@“Œ•‹àè 
-14@ž¾–Ø 
-15@žàŽR 
-16@VŽ­À 
-17@–kŽ­À 
-18@”Â‰× 
-19@‰º¬‘ã 
-20@–¾_ 
-21@‰º¡Žs 
-22@ã¡Žs 
-23@“Œ•“úŒõ
-24@–ìB•½ì 
-25@–ìB‘å’Ë 
-26@p¶ 
-27@‘’J 
-28@‚¨‚à‚¿‚á‚Ì‚Ü‚¿ 
-29@ˆÀ’Ë 
-30@¼ì“c 
-31@]‘]“‡ 
-32@“ì‰F“s‹{ 
-33@“Œ•‰F“s‹{
-34@‘å’JŒü 
-35@‘åŒK 
-36@V‚“¿ 
-37@¬²‰z 
-38@“Œ•ƒ[ƒ‹ƒhƒXƒNƒEƒFƒA
-39@‹S“{ì‰·ò 
-40@‹S“{ìŒö‰€ 
-41@V“¡Œ´
+â—†è¡Œå…ˆè¡¨ç¤ºâ—†  
+20ã€€ãŸã³ã˜  
+21ã€€ä¸Šæ¿æ©‹  
+22ã€€æ­¦è”µåµå±±  
+23ã€€å‚æˆ¸  
+24ã€€è¶Šç”Ÿ  
+25ã€€æ›³èˆŸ  
+26ã€€è‰åŠ   
+27ã€€ä¼Šå‹¢å´Ž  
+28ã€€è¶Šè°·  
+29ã€€æ ƒæœ¨  
+30ã€€æ±æ­¦æ—¥å…‰  
+31ã€€æ±æ­¦å®‡éƒ½å®®  
+32ã€€é¬¼æ€’å·å…¬åœ’  
+33ã€€é‹æ²³  
+34ã€€å²©æ§»  
+35ã€€æ˜¥æ—¥éƒ¨  
+36ã€€å¤§å®®  
+37ã€€å’Œå…‰å¸‚  
+38ã€€èˆ¹æ©‹  
+39ã€€æŸ  
+40ã€€å…­å®Ÿ  
+41ã€€é‡Žç”°å¸‚  
+42ã€€æ¸…æ°´å…¬åœ’  
+43ã€€ä¸ƒå…‰å°  
+44ã€€æ±å²©æ§»  
+45ã€€åŒ—åƒä½  
+46ã€€é«˜æŸ³  
+47ã€€æž—é–“å­¦æ ¡  
 
-Ÿsæ•\Ž¦Ÿ
-20@‚½‚Ñ‚¶
-21@ã”Â‹´
-22@•‘ —’ŽR
-23@âŒË
-24@‰z¶
-25@‰gM
-26@‘‰Á
-27@ˆÉ¨è
-28@‰z’J
-29@“È–Ø
-30@“Œ•“úŒõ
-31@“Œ•‰F“s‹{
-32@‹S“{ìŒö‰€
-33@‰^‰Í
-34@Šâ’Î
-35@t“ú•”
-36@‘å‹{
-37@˜aŒõŽs
-38@‘D‹´
-39@”
-40@˜ZŽÀ
-41@–ì“cŽs
-42@´…Œö‰€
-43@ŽµŒõ‘ä
-44@“ŒŠâ’Î
-45@–kçZ
-46@‚–ö
-47@—ÑŠÔŠwZ
+â—†RunéŸ³â—†  
+ã“ã®ã‚¢ãƒ‰ã‚ªãƒ³ã®RunéŸ³ã¯ã€ä»¥ä¸‹ã®å‰²ã‚Šå½“ã¦ã«ãªã£ã¦ãŠã‚Šã¾ã™ã€‚  
 
-ŸRun‰¹Ÿ
-‚±‚ÌƒAƒhƒIƒ“‚ÌRun‰¹‚ÍAˆÈ‰º‚ÌŠ„‚è“–‚Ä‚É‚È‚Á‚Ä‚¨‚è‚Ü‚·B
+Run0	ï¼šãƒãƒ©ã‚¹ãƒˆ(å®šå°ºãƒ¬ãƒ¼ãƒ«)  
+Run1	ï¼šãƒãƒ©ã‚¹ãƒˆ(ãƒ­ãƒ³ã‚°ãƒ¬ãƒ¼ãƒ«)  
+Run2	ï¼šé‰„æ©‹  
+Run3	ï¼šãƒˆãƒ³ãƒãƒ«  
 
-Run0	Fƒoƒ‰ƒXƒg(’èŽÚƒŒ[ƒ‹)
-Run1	Fƒoƒ‰ƒXƒg(ƒƒ“ƒOƒŒ[ƒ‹)
-Run2	F“S‹´
-Run3	Fƒgƒ“ƒlƒ‹
+â– 4,è»¢è¼‰ãƒ»è»¢ç”¨ã«ã¤ã„ã¦  
+ç¦è»¢è¼‰ãƒ»è»¢ç”¨ã§ã™ã€‚è»Šä¸¡æŒ‡å®šã¯åŸºæœ¬çš„ã«è‡ªç”±ã§ã™ãŒã€äº‹å¾Œã§ã‚‚æ§‹ã„ã¾ã›ã‚“ã®ã§  
+ãƒ¡ãƒ¼ãƒ«ã‹Twitterã«ã¦ã”é€£çµ¡ãã ã•ã‚‹ã¨ã€ã“ã¡ã‚‰ã‹ã‚‰ã‚‚ãƒªãƒ³ã‚¯ã‚’è²¼ã‚‰ã›ã¦ã„ãŸã ãã¾ã™ã€‚  
 
-¡4,“]ÚE“]—p‚É‚Â‚¢‚Ä
-‹Ö“]ÚE“]—p‚Å‚·BŽÔ—¼Žw’è‚ÍŠî–{“I‚ÉŽ©—R‚Å‚·‚ªAŽ–Œã‚Å‚à\‚¢‚Ü‚¹‚ñ‚Ì‚Å
-ƒ[ƒ‹‚©Twitter‚É‚Ä‚²˜A—‚­‚¾‚³‚é‚ÆA‚±‚¿‚ç‚©‚ç‚àƒŠƒ“ƒN‚ð“\‚ç‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B
+â– 5,Special Thanks!  
 
-¡5,Special Thanks!
+ãƒ»é«˜æ©‹ã†ã•ãŠæ§˜â€¦  
+ã€Œ13å·ç·šå…±é€šåž‹CS-ATCãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã€ã‚’ä½¿ç”¨ã•ã›ã¦ã„ãŸã ãã¾ã—ãŸã€‚  
 
-E‚‹´‚¤‚³‚¨—lc
-u13†ü‹¤’ÊŒ^CS-ATCƒvƒ‰ƒOƒCƒ“v‚ðŽg—p‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚½B
+ãƒ»Commuter Trainæ§˜â€¦  
+ã€Œã‚¯ãƒªã‚¹ãƒžã‚¹ã‚±ãƒ¼ã‚­ã‚»ãƒƒãƒˆã€ã‚’ä½¿ç”¨ã•ã›ã¦ã„ãŸã ãã¾ã—ãŸã€‚  
 
-ECommuter Train—lc
-uƒNƒŠƒXƒ}ƒXƒP[ƒLƒZƒbƒgv‚ðŽg—p‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚½B
+ãƒ»Rock_Onæ§˜â€¦  
+ã€ŒDetailManagerã€ã‚’ä½¿ç”¨ã•ã›ã¦ã„ãŸã ãã¾ã—ãŸã€‚  
 
-ERock_On—lc
-uDetailManagerv‚ðŽg—p‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚½B
+ãƒ»BVE Workshopæ§˜â€¦  
+ã€ŒReal Analog Gaugeã€ã‚’ä½¿ç”¨ã•ã›ã¦ã„ãŸã ãã¾ã—ãŸã€‚  
 
-EBVE Workshop—lc
-uReal Analog Gaugev‚ðŽg—p‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚½B
+ã“ã®å ´ã‚’å€Ÿã‚Šã¦ã€ãŠç¤¼ç”³ã—ä¸Šã’ã¾ã™ã€‚ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã—ãŸã€‚  
 
-‚±‚Ìê‚ðŽØ‚è‚ÄA‚¨—ç\‚µã‚°‚Ü‚·B‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B
-
-¡6,XV—š—ð
-2017/10/01@ƒvƒ‰ƒOƒCƒ“‚Ì•s‹ï‡‚Æ‘Îˆ–@‚É‚Â‚¢‚Ä’ˆÓŽ–€‚ð‹LqiƒAƒhƒIƒ“–{‘Ì‚É•ÏX‚Í‚ ‚è‚Ü‚¹‚ñj
-2017/09/30@ƒvƒ‰ƒOƒCƒ“‚ÌŠJ”­ŽÒƒ‚[ƒh‚ª—LŒø‚É‚È‚Á‚½‚Ü‚Ü‚¾‚Á‚½‚Ì‚ðC³
-2017/09/25@ƒTƒEƒ“ƒhE‰æ‘œ‚Ì’Ç‰Á‚ÆíœE«”\‚ÌC³E‘g¬ƒoƒŠƒG[ƒVƒ‡ƒ“’Ç‰ÁEƒtƒ@ƒCƒ‹\‘¢•ÏX
-2014/03/01@ƒvƒ‰ƒOƒCƒ“XV‚É‘Î‰ž‚µAƒuƒU[‚Æ‰^“]‘ä‚ð•ÏX‚µ‚Ü‚µ‚½B
-2013/01/01@ŒöŠJ‚µ‚Ü‚µ‚½B
+â– 6,æ›´æ–°å±¥æ­´  
+2017/10/01ã€€ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã®ä¸å…·åˆã¨å¯¾å‡¦æ³•ã«ã¤ã„ã¦æ³¨æ„äº‹é …ã‚’è¨˜è¿°ï¼ˆã‚¢ãƒ‰ã‚ªãƒ³æœ¬ä½“ã«å¤‰æ›´ã¯ã‚ã‚Šã¾ã›ã‚“ï¼‰  
+2017/09/30ã€€ãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã®é–‹ç™ºè€…ãƒ¢ãƒ¼ãƒ‰ãŒæœ‰åŠ¹ã«ãªã£ãŸã¾ã¾ã ã£ãŸã®ã‚’ä¿®æ­£  
+2017/09/25ã€€ã‚µã‚¦ãƒ³ãƒ‰ãƒ»ç”»åƒã®è¿½åŠ ã¨å‰Šé™¤ãƒ»æ€§èƒ½ã®ä¿®æ­£ãƒ»çµ„æˆãƒãƒªã‚¨ãƒ¼ã‚·ãƒ§ãƒ³è¿½åŠ ãƒ»ãƒ•ã‚¡ã‚¤ãƒ«æ§‹é€ å¤‰æ›´  
+2014/03/01ã€€ãƒ—ãƒ©ã‚°ã‚¤ãƒ³æ›´æ–°ã«å¯¾å¿œã—ã€ãƒ–ã‚¶ãƒ¼ã¨é‹è»¢å°ã‚’å¤‰æ›´ã—ã¾ã—ãŸã€‚  
+2013/01/01ã€€å…¬é–‹ã—ã¾ã—ãŸã€‚  
 ------------------------------------------------------------------------------------------------------
-2014/03/01@Segtor "4MB" Gelionihttp://segtor.web.fc2.com/j˜A—æFsegtor_tbtj—yahoo.co.jp
+2014/03/01ã€€Segtor "4MB" Gelionï¼ˆhttp://segtor.web.fc2.com/ï¼‰é€£çµ¡å…ˆï¼šsegtor_tbtjï¼ yahoo.co.jp
