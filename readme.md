@@ -288,4 +288,4 @@ Run3	：トンネル
 2013/01/01　公開しました。  
 
 ------------------------------------------------------------------------------------------------------
-2014/03/01　Segtor "4MB" Gelion（http://segtor.web.fc2.com/）連絡先：segtor_tbtj＠yahoo.co.jp
+2014/03/01　Segtor "4MB" Gelion（ http://segtor.web.fc2.com/ ）連絡先：segtor_tbtj＠yahoo.co.jp
